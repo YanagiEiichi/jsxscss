@@ -1,0 +1,10 @@
+{
+  "name": "jsxscss-loader",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "YanagiEiichi",
+  "license": "MIT",
+  "dependencies": {
+    "node-sass": "^3.2.0"
+  }
+}
