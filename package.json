@@ -1,6 +1,6 @@
 {
   "name": "jsxscss",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "bin": {
     "jsxscss": "bin/jsxscss.js"
