@@ -1,7 +1,10 @@
 {
-  "name": "jsxscss-loader",
+  "name": "jsxscss",
   "version": "1.0.0",
   "main": "index.js",
+  "bin": {
+    "jsxscss": "bin/jsxscss.js"
+  },
   "author": "YanagiEiichi",
   "license": "MIT",
   "dependencies": {
