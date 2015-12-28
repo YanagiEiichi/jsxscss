@@ -1,6 +1,6 @@
 {
   "name": "jsxscss",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "main": "index.js",
   "bin": {
     "jsxscss": "bin/jsxscss.js"
@@ -8,6 +8,11 @@
   "author": "YanagiEiichi",
   "license": "MIT",
   "dependencies": {
+    "argollector": "^1.0.0",
+    "babel": "^5.8.34",
+    "babel-fs": "^1.0.5",
+    "capacitance": "^1.0.0",
+    "glob": "^6.0.2",
     "node-sass": "^3.2.0"
   }
 }
